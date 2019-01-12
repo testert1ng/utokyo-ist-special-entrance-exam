@@ -12,6 +12,16 @@ Ther original source is [here][1].
 
 There are also [Japanese][2] version and [Chinese][3] version.
 
+## 0x02 Extract Source
+
+The basic idea is to use OCR to get all the source data. But it can also be done manuall.
+
+The extracted result can be see [here](./src.txt).
+
+**TODO**: implementing with OCR. 
+
+
+
 [1]: http://www.i.u-tokyo.ac.jp/ist_en/library/posters/2011-poster_en.shtml
 [2]: http://www.i.u-tokyo.ac.jp/ist_en/library/posters/2011-poster_ja.shtml
 [3]: http://www.i.u-tokyo.ac.jp/ist_en/library/posters/2011-poster_c.shtml
